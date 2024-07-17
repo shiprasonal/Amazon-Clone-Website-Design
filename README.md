@@ -15,7 +15,7 @@ A simple clone of the Amazon website design using HTML and CSS
 
 ## Installation
 
-Clone the repository  bash git clone and open `index.html` in your web browser.
+Clone the repository and open `index.html` in your web browser.
 
 ## Usage
 
