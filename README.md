@@ -15,7 +15,7 @@ A simple clone of the Amazon website design using HTML and CSS
 
 ## Installation
 
-Clone the repository bash git clone  https://github.com/shiprasonal/Amazon-Clone-Website-Design/blob/main/README.md and open `index.html` in your web browser.
+Clone the repository bash git clone https://github.com/shiprasonal/Amazon-Clone-Website-Design.git and open `index.html` in your web browser.
 
 ## Usage
 
